@@ -1,1 +1,1 @@
-# spectrum-website-2
+# spectrum-web
